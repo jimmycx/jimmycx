@@ -1,140 +1,96 @@
 <div align="center">
 
-# JIMMYXC
+# JimmyXC
 
-### Junior Full Stack Developer • Learning & Building Every Day 🚀
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Junior+Full+Stack+Developer;Passionate+About+Web+Development;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies" />
-</p>
+### Full Stack Developer
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/jimmyxc?style=for-the-badge&color=0ea5e9&labelColor=111827" />
-  
-  <img src="https://komarev.com/ghpvc/?username=jimmyxc&style=for-the-badge&color=0ea5e9&labelColor=111827" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+Something+New" />
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-```yaml
-Name: JIMMYXC
-Role: Junior Full Stack Developer
-Focus:
-  - Frontend Development
-  - Backend APIs
-  - Modern UI Design
-  - Learning Scalable Applications
+I'm a developer focused on building modern web applications and improving my skills through real-world projects.
 
-Currently Learning:
-  - React & Next.js
-  - Node.js
-  - TypeScript
-  - Cloud Technologies
-```
-
-I’m passionate about building modern web applications and improving my development skills every day.  
-I enjoy learning new technologies and creating clean, responsive user experiences.
+I enjoy working on:
+- Frontend development
+- Backend APIs
+- Responsive UI design
+- Learning modern technologies
 
 ---
 
-# 🚀 Tech Stack
+## Tech Stack
 
-<div align="center">
-
-## Frontend
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css" />
 </p>
 
----
-
-## Backend
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
----
-
-## Tools
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
 </p>
 
-</div>
-
 ---
 
-# 📚 Current Goals
+## Current Focus
 
 ```txt
-✔ Improve Full Stack Skills
-✔ Build Real-World Projects
-✔ Learn System Design
-✔ Explore Cloud & DevOps
-✔ Contribute to Open Source
+• Building real-world projects
+• Improving frontend skills
+• Learning scalable backend systems
+• Exploring cloud technologies
 ```
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jimmyxc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jimmyxc&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyxc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyxc&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jimmyxc&theme=tokyonight&hide_border=true&background=0F172A" />
+<img src="https://streak-stats.demolab.com?user=jimmyxc&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## Connect
 
-<div align="center">
-
-<a href="https://github.com/jimmyxc">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
-<a href="mailto:your@email.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-<a href="https://linkedin.com">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-</div>
-
----
-
-# 💡 Developer Mindset
-
-> Keep learning.  
-> Keep building.  
-> Stay consistent.
+<p align="left">
+  <a href="https://github.com/jimmyxc">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### 🚀 Beginner Developer Journey
+Learning, building, and improving every day 🚀
 
 </div>
