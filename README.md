@@ -2,95 +2,88 @@
 
 # JIMMYXC
 
-### Senior Full Stack Engineer • Software Architect • Product Builder
+### Junior Full Stack Developer • Learning & Building Every Day 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Senior+Full+Stack+Engineer;Architecting+Scalable+Applications;React+%7C+Next.js+%7C+Node.js+Expert;Building+Modern+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Junior+Full+Stack+Developer;Passionate+About+Web+Development;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/jimmyxc?style=for-the-badge&color=06b6d4&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/followers/jimmyxc?style=for-the-badge&color=0ea5e9&labelColor=111827" />
   
-  <img src="https://komarev.com/ghpvc/?username=jimmyxc&style=for-the-badge&color=06b6d4&labelColor=0f172a" />
+  <img src="https://komarev.com/ghpvc/?username=jimmyxc&style=for-the-badge&color=0ea5e9&labelColor=111827" />
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 Senior Engineer Profile
+# 👨‍💻 About Me
 
 ```yaml
 Name: JIMMYXC
-Role: Senior Full Stack Engineer
-Experience: 10+ Years
+Role: Junior Full Stack Developer
+Focus:
+  - Frontend Development
+  - Backend APIs
+  - Modern UI Design
+  - Learning Scalable Applications
 
-Core Expertise:
-  - Frontend Architecture
-  - Backend Engineering
-  - Cloud Infrastructure
-  - Scalable System Design
-  - UI/UX Engineering
-
-Current Focus:
-  - High Performance Web Applications
-  - Modern SaaS Platforms
-  - AI Integrations
-  - Developer Experience
+Currently Learning:
+  - React & Next.js
+  - Node.js
+  - TypeScript
+  - Cloud Technologies
 ```
 
-I specialize in building scalable, production-grade applications with modern architectures, exceptional user experiences, and high-performance engineering standards.
+I’m passionate about building modern web applications and improving my development skills every day.  
+I enjoy learning new technologies and creating clean, responsive user experiences.
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
-## Frontend Systems
+## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,sass,html,css,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 </p>
 
 ---
 
-## Backend Engineering
+## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ---
 
-## Infrastructure & DevOps
+## Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github,linux,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
 </p>
 
 </div>
 
 ---
 
-# 🏗 Engineering Capabilities
+# 📚 Current Goals
 
 ```txt
-✔ Full Stack Development
-✔ System Architecture
-✔ API Design
-✔ Cloud Infrastructure
-✔ CI/CD Pipelines
-✔ Performance Optimization
-✔ Technical Leadership
-✔ Scalable Frontend Systems
-✔ Production-Grade Backend Services
-✔ Modern UI/UX Engineering
+✔ Improve Full Stack Skills
+✔ Build Real-World Projects
+✔ Learn System Design
+✔ Explore Cloud & DevOps
+✔ Contribute to Open Source
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -102,21 +95,11 @@ I specialize in building scalable, production-grade applications with modern arc
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=jimmyxc&theme=tokyonight&hide_border=true&background=0F172A" />
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jimmyxc&theme=tokyo-night&hide_border=true&bg_color=0F172A" />
 
 </div>
 
@@ -142,16 +125,16 @@ I specialize in building scalable, production-grade applications with modern arc
 
 ---
 
-# 🚀 Engineering Philosophy
+# 💡 Developer Mindset
 
-> Clean architecture.  
-> Scalable systems.  
-> Exceptional user experiences.
+> Keep learning.  
+> Keep building.  
+> Stay consistent.
 
 ---
 
 <div align="center">
 
-### Senior Engineer • Architect • Problem Solver
+### 🚀 Beginner Developer Journey
 
 </div>
